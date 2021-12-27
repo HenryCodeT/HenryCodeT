@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HenryCodeT&theme=onedark)]
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=HenryCodeT&repo=lazyhub&theme=monokai)]
-[![deno-websocket](https://github-readme-stats.vercel.app/api/pin/?username=HenryCodeT&repo=deno-websocket&theme=monokai)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true&theme=cobalt2)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HenryCodeT)]
 
 

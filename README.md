@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HenryCodeT&theme=discord)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCodeT&layout=compact&theme=dark)
 
 
 

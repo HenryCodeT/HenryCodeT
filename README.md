@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HenryCodeT&theme=discord)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCodeT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![HenryCodeT's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryCodeT&hide=stars,issues&include_all_commits=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true&hide=stars,issues,prs)
 

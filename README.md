@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E65142&lines=Hi,+I'm+Henry)](https://git.io/typing-svg)
 ### Hi there 👋
 
 **HenryCodeT/HenryCodeT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

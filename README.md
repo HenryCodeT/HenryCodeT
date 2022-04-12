@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
      <a href="https://api.whatsapp.com/send/?phone=51981540121&text=&app_absent=0" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/%20-WhatsApp-success?&style=for-the-          badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABmElEQVRIidWUMWtUQRSFv9ngCmkiCqJZRSSQXkNaEaxsQkjEQizURshPyD9IGa1TpBJiIyrYCCJYKCTBRhLQRldsksItjBpCvhQ7C+Nzdt97bJUDD96bc+85986deXDcEQaRahO4BcwCV4HTkfoJvANeAU9DCAe1ndV59avl+KLO1RFuqMsVhFMcqkvqSBWDxzXFUzwqE789hHgP8/3ET6rfCsFtdUF9U8OgbfdwVKr+euSmanZxJ2ewWgj6o4aE36hhsNbLayQeUwXPJnAqip8Bzg4c4L+4kjNoFYIC8CC+3wAu1DAY/29F3c202lEn1KA+qbFFezmDT32CP6qjatPuBTxU/6p34/evTM7nnMHKgIreqmMxblq9meSdV/cK8Ws5g5mStrfUa5m8iUzsvR6fHsMGsAVMlgxwE3gOvAcuAovA5YTfAS6FEH7nutgs6aIK7mfLUlt2BzgMVk0uZ9Hg4ZDiK+qJvhurviwkdNTvFYTb5v49EemQt+OAXsfnQ6RmgDlgGjgX134A68AL4FkIYb9v5cceR5GgF0L36UHjAAAAAElFTkSuQmCC"/>
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </div>
 </div>
@@ -19,7 +19,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 * 🎓Bachelor of Science in Electronic Engineering, 2018.
 * 👨‍🎓Graduated from [CodingDojo](https://www.codingdojo.la/)'s bootcamp, 2022.
 * 🌱Exploring Technical Content Writing.
-*  
+
+### 🛠️ Languages and Tools :
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"><img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"><img src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
+
 ### 🔥My Stats :
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HenryCodeT&theme=discord" />
@@ -28,6 +31,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCodeT&layout=compact" />
 </p>
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true&hide=stars,issues,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true&hide=stars,issues,prs" />
 </p>
 

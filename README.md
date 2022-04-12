@@ -1,4 +1,6 @@
 
+![Profile](https://github.com/HenryCodeT/HenryCodeT/blob/main/presentation_card.gif)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Henry!;Nice+to+meet+you+👋&center=true&size=30">

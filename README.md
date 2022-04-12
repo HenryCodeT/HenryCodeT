@@ -1,5 +1,5 @@
 
-![Profile]
+![Profile](https://github.com/HenryCodeT/HenryCodeT/blob/main/presentation.gif)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

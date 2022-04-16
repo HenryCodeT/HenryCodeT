@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥My Stats :
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenryCodeT&theme=discord" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HenryCodeT&theme=alduin" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryCodeT&layout=compact" />

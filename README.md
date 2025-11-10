@@ -6,9 +6,6 @@
     <a href="https://www.linkedin.com/in/henry-tc">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-     <a href="https://api.whatsapp.com/send/?phone=51981540121&text=&app_absent=0" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
   </div>
 </div>
 <hr/>

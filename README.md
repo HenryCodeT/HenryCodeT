@@ -30,3 +30,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api?username=HenryCodeT&show_icons=true&hide=stars,issues,prs" />
 </p>
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Review Analyzer** | **AI-driven solution for e-commerce leaders.** Automates the analysis of thousands of daily customer reviews to optimize support workflows. It classifies sentiment, summarizes feedback, and drafts agent responses using **Clean Architecture**. | `Next.js 14` `Node.js` `TypeScript` `PostgreSQL` `Google Gemini` | [Frontend Repo](https://github.com/HenryCodeT/review-analyzer-frontend) <br> [Backend Repo](https://github.com/HenryCodeT/review-analyzer-backend) |
